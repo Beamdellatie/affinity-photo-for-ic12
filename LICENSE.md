@@ -1,4 +1,4 @@
-
+advanced Panel for Affinity Designer for macOS - grid systems and version history offers the most advanced Affinity Designer for macOS panel, with grid systems and version
 
 
 
